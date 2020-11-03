@@ -1,0 +1,54 @@
+{
+  "ret": true,
+  "data": {
+    "categories":[{
+        "id": "0001",
+        "title": "主食",
+        "imgUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1603362272471&di=a92f955ad609d8d34948ff0bfe776d6f&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20181130%2F568bf740437e470297cf1c9cb32d1df8.jpeg"
+      }, {
+        "id": "0002",
+        "title": "蛋类",
+        "imgUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1603362315815&di=86162b43ec2c9f14200d002947e434fb&imgtype=0&src=http%3A%2F%2Fwww.xiafan.com.cn%2Fuploads%2Fallimg%2F180303%2F1342394307-0.png"
+      },{
+        "id": "0003",
+        "title": "豆制品",
+        "imgUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1603362337863&di=00d305e98129b8286c51e3e1caed015e&imgtype=0&src=http%3A%2F%2Fwww.yutc.cn%2Fupfile%2F201810%2F2018100432692165.jpg"
+      },{
+        "id": "0004",
+        "title": "谷类",
+        "imgUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1603362372416&di=a18da55c20c7e0ce41936b4f8ba6e87f&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20181113%2Fe8ef9e283f264dddba6f1616bb561e78.jpeg"
+      },{
+        "id": "0005",
+        "title": "水果",
+        "imgUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1603362392994&di=5b0d4c0cdc7e8e2cf41a3575f082c104&imgtype=0&src=http%3A%2F%2Fimage.meifajie.com%2Fnvxing%2F2016030103%2F20160301031518102541.jpg"
+      },{
+        "id": "0006",
+        "title": "肉类",
+        "imgUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1603362412406&di=88e3a83d89c0dc40aac9b0bcd6708e93&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20190704%2F3b7910fb8fe54521bd8af5738d1e77e4.jpeg"
+      },{
+        "id": "0007",
+        "title": "奶类",
+        "imgUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1603362435270&di=675a374d41a0b10d26f8781a085cddaf&imgtype=0&src=http%3A%2F%2Fjkcdn.pajk.com.cn%2Fimage%2FT110xnBjxT1RCvBVdK.jpg"
+      },{
+        "id": "0008",
+        "title": "菌菇",
+        "imgUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1603362465766&di=b827b955ad4014b07424738cf57d7de2&imgtype=0&src=http%3A%2F%2Fn.sinaimg.cn%2Fsinacn14%2F220%2Fw600h420%2F20180606%2F71ef-hcqccip3132216.jpg"
+      }, {
+        "id": "0009",
+        "title": "坚果",
+        "imgUrl": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3130989603,1973105580&fm=26&gp=0.jpg"
+      },{
+        "id": "0010",
+        "title": "油品",
+        "imgUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1603362518318&di=dac488d85d2fe4f1c78cc46c6949cf9b&imgtype=0&src=http%3A%2F%2Fsi1.go2yd.com%2Fget-image%2F0MCwmIsrUaO"
+      },{
+        "id": "0011",
+        "title": "调料",
+        "imgUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1603362541473&di=15f308fd5410ec9908d10e5f955e9eae&imgtype=0&src=http%3A%2F%2Fp1.meituan.net%2Fdealwatera%2Fada1e44694a740884151e7a67ab92ed6116366.jpg%40465h_702w_2e_90Q%257Cwatermark%3D1%26%26p%3D4"
+      },{
+        "id": "0012",
+        "title": "蔬菜",
+        "imgUrl": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3779575523,3340645051&fm=26&gp=0.jpg"
+      }]
+  }
+}
